@@ -1,0 +1,1 @@
+# cdk-appsync-graphql-dynamodb
